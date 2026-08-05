@@ -75,8 +75,11 @@ strong operational foundations, and maintainable TypeScript systems.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=romashka1999&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Roman's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romashka1999&layout=compact&hide_border=true&theme=transparent" alt="Roman's most-used public repository languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
+  <img src="./assets/github-stats-light.svg" alt="GitHub activity: 3,373 contributions in the last 12 months, 68 public repositories, 17 public pull requests, active since 2019" width="760">
+</picture>
 
 </div>
 

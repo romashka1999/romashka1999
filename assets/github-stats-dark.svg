@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190" role="img" aria-labelledby="title description">
+  <title id="title">Roman Chikhladze's GitHub activity</title>
+  <desc id="description">3373 contributions in the last 12 months, 68 public repositories, 17 public pull requests, active since 2019.</desc>
+  <rect x="0.5" y="0.5" width="759" height="189" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="38" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600">GitHub Activity</text>
+  <text x="28" y="60" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Verified snapshot · August 2026</text>
+  <line x1="28" y1="78" x2="732" y2="78" stroke="#21262d"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="28" y="119" fill="#58a6ff" font-size="25" font-weight="700">3,373</text>
+    <text x="28" y="143" fill="#8b949e" font-size="12">contributions · 12 months</text>
+    <text x="225" y="119" fill="#58a6ff" font-size="25" font-weight="700">68</text>
+    <text x="225" y="143" fill="#8b949e" font-size="12">public repositories</text>
+    <text x="410" y="119" fill="#58a6ff" font-size="25" font-weight="700">17</text>
+    <text x="410" y="143" fill="#8b949e" font-size="12">public pull requests · 12 months</text>
+    <text x="650" y="119" fill="#58a6ff" font-size="25" font-weight="700">2019</text>
+    <text x="650" y="143" fill="#8b949e" font-size="12">active since</text>
+  </g>
+</svg>
