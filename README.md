@@ -118,11 +118,13 @@ strong operational foundations, and maintainable TypeScript systems.
 
 ## Engineering principles
 
-- Make boundaries and ownership explicit
-- Design failure handling alongside the happy path
-- Build security into system structure, not just conventions
-- Treat migrations, health checks, observability, and tests as production features
-- Prefer durable, understandable solutions over accidental complexity
+- Understand the problem before choosing the solution
+- Build for meaningful outcomes, not technology for its own sake
+- Prefer simple, clear designs with explicit trade-offs
+- Take ownership from the first decision through the final result
+- Optimize for long-term maintainability, not short-term cleverness
+- Communicate decisions clearly and collaborate with respect
+- Keep learning, challenge assumptions, and share knowledge
 
 ## GitHub analytics
 
