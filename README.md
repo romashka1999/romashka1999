@@ -45,12 +45,47 @@ strong operational foundations, and maintainable TypeScript systems.
 
 **Backend engineering**
 
+_Runtimes & frameworks_
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go Backend](https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python Backend](https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
+
+_Data access & validation_
+
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Database Transactions](https://img.shields.io/badge/Database_Transactions-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DTO Validation](https://img.shields.io/badge/DTO_Validation-2EA44F?style=flat-square&logo=checkmarx&logoColor=white)
+![Class Validator](https://img.shields.io/badge/Class_Validator-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Serialization](https://img.shields.io/badge/Serialization-57606A?style=flat-square&logo=json&logoColor=white)
+
+_Integration & processing_
+
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![HTTP Clients](https://img.shields.io/badge/HTTP_Clients-005571?style=flat-square&logo=httpie&logoColor=white)
+![Webhook Handling](https://img.shields.io/badge/Webhook_Handling-2088FF?style=flat-square&logo=webhook&logoColor=white)
+![Background Workers](https://img.shields.io/badge/Background_Workers-6E56CF?style=flat-square&logo=buffer&logoColor=white)
+![Scheduled Tasks](https://img.shields.io/badge/Scheduled_Tasks-D97706?style=flat-square&logo=clockify&logoColor=white)
+![Queue Consumers](https://img.shields.io/badge/Queue_Consumers-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![External Integrations](https://img.shields.io/badge/External_Integrations-5A29E4?style=flat-square&logo=icloud&logoColor=white)
+![Adapter Patterns](https://img.shields.io/badge/Adapter_Patterns-8250DF?style=flat-square&logo=abstract&logoColor=white)
+
+_Service foundations_
+
+![Authentication](https://img.shields.io/badge/Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Authorization](https://img.shields.io/badge/Authorization-3C79B4?style=flat-square&logo=auth0&logoColor=white)
+![Configuration Management](https://img.shields.io/badge/Configuration_Management-4B5563?style=flat-square&logo=dotenv&logoColor=white)
+![Error Handling](https://img.shields.io/badge/Error_Handling-D73A49?style=flat-square&logo=sentry&logoColor=white)
+![Pagination and Filtering](https://img.shields.io/badge/Pagination_%26_Filtering-0969DA?style=flat-square&logo=filter&logoColor=white)
+![API Versioning](https://img.shields.io/badge/API_Versioning-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Graceful Shutdown](https://img.shields.io/badge/Graceful_Shutdown-2EA44F?style=flat-square&logo=statuspage&logoColor=white)
 
 **APIs & real-time systems**
 
