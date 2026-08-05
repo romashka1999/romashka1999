@@ -83,12 +83,50 @@ strong operational foundations, and maintainable TypeScript systems.
 
 **Architecture & system design**
 
+_Core architecture_
+
+![System Design](https://img.shields.io/badge/System_Design-0969DA?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-24292F?style=flat-square&logo=buffer&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=icloud&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-FF4F8B?style=flat-square&logo=apachekafka&logoColor=white)
+![Modular Architecture](https://img.shields.io/badge/Modular_Architecture-6E56CF?style=flat-square&logo=stackshare&logoColor=white)
 ![Domain Driven Design](https://img.shields.io/badge/Domain--Driven_Design-6E56CF?style=flat-square&logo=blueprint&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2F81F7?style=flat-square&logo=codacy&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-0E8A16?style=flat-square&logo=solid&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-8250DF?style=flat-square&logo=abstract&logoColor=white)
+![Service Boundaries](https://img.shields.io/badge/Service_Boundaries-57606A?style=flat-square&logo=files&logoColor=white)
+![Separation of Concerns](https://img.shields.io/badge/Separation_of_Concerns-57606A?style=flat-square&logo=files&logoColor=white)
+
+_Service & API design_
+
+![API Design](https://img.shields.io/badge/API_Design-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Contract First](https://img.shields.io/badge/Contract--First_Design-2496ED?style=flat-square&logo=swagger&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Stateless Services](https://img.shields.io/badge/Stateless_Services-0969DA?style=flat-square&logo=serverless&logoColor=white)
+![Backward Compatibility](https://img.shields.io/badge/Backward_Compatibility-2EA44F?style=flat-square&logo=semanticrelease&logoColor=white)
+![Data Integrity](https://img.shields.io/badge/Data_Integrity-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+_Reliable workflows & messaging_
+
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-FF4F8B?style=flat-square&logo=apachekafka&logoColor=white)
+![Asynchronous Processing](https://img.shields.io/badge/Asynchronous_Processing-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Message Driven](https://img.shields.io/badge/Message--Driven_Systems-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Transactional Outbox](https://img.shields.io/badge/Transactional_Outbox-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Idempotency](https://img.shields.io/badge/Idempotent_Workflows-0E8A16?style=flat-square&logo=checkmarx&logoColor=white)
+![Retry and Backoff](https://img.shields.io/badge/Retry_%26_Backoff-D97706?style=flat-square&logo=clockify&logoColor=white)
+![Dead Letter Queues](https://img.shields.io/badge/Dead--Letter_Queues-D73A49?style=flat-square&logo=maildotru&logoColor=white)
+![Workflow Orchestration](https://img.shields.io/badge/Workflow_Orchestration-7C3AED?style=flat-square&logo=temporal&logoColor=white)
+
+_Scalability & resilience_
+
+![Horizontal Scalability](https://img.shields.io/badge/Horizontal_Scalability-0969DA?style=flat-square&logo=kubernetes&logoColor=white)
+![High Availability](https://img.shields.io/badge/High_Availability-2EA44F?style=flat-square&logo=statuspage&logoColor=white)
+![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-F59E0B?style=flat-square&logo=dependabot&logoColor=white)
 ![Resilient Systems](https://img.shields.io/badge/Resilient_Systems-2EA44F?style=flat-square&logo=statuspage&logoColor=white)
+![Graceful Degradation](https://img.shields.io/badge/Graceful_Degradation-57606A?style=flat-square&logo=buffer&logoColor=white)
+![Caching Strategies](https://img.shields.io/badge/Caching_Strategies-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Concurrency Control](https://img.shields.io/badge/Concurrency_Control-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Consistency Models](https://img.shields.io/badge/Consistency_Models-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Load Distribution](https://img.shields.io/badge/Load_Distribution-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Cloud, infrastructure & delivery**
 
