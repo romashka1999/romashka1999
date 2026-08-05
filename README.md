@@ -116,9 +116,9 @@ _Service foundations_
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Architecture & system design**
+<h3>Architecture &amp; System Design</h3>
 
-_Core architecture_
+<h4>Core Architecture</h4>
 
 ![System Design](https://img.shields.io/badge/System_Design-0969DA?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-24292F?style=flat-square&logo=buffer&logoColor=white)
@@ -131,7 +131,7 @@ _Core architecture_
 ![Service Boundaries](https://img.shields.io/badge/Service_Boundaries-57606A?style=flat-square&logo=files&logoColor=white)
 ![Separation of Concerns](https://img.shields.io/badge/Separation_of_Concerns-57606A?style=flat-square&logo=files&logoColor=white)
 
-_Service & API design_
+<h4>Service &amp; API Design</h4>
 
 ![API Design](https://img.shields.io/badge/API_Design-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Contract First](https://img.shields.io/badge/Contract--First_Design-2496ED?style=flat-square&logo=swagger&logoColor=white)
@@ -140,7 +140,7 @@ _Service & API design_
 ![Backward Compatibility](https://img.shields.io/badge/Backward_Compatibility-2EA44F?style=flat-square&logo=semanticrelease&logoColor=white)
 ![Data Integrity](https://img.shields.io/badge/Data_Integrity-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-_Reliable workflows & messaging_
+<h4>Reliable Workflows &amp; Messaging</h4>
 
 ![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-FF4F8B?style=flat-square&logo=apachekafka&logoColor=white)
 ![Asynchronous Processing](https://img.shields.io/badge/Asynchronous_Processing-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -151,7 +151,7 @@ _Reliable workflows & messaging_
 ![Dead Letter Queues](https://img.shields.io/badge/Dead--Letter_Queues-D73A49?style=flat-square&logo=maildotru&logoColor=white)
 ![Workflow Orchestration](https://img.shields.io/badge/Workflow_Orchestration-7C3AED?style=flat-square&logo=temporal&logoColor=white)
 
-_Scalability & resilience_
+<h4>Scalability &amp; Resilience</h4>
 
 ![Horizontal Scalability](https://img.shields.io/badge/Horizontal_Scalability-0969DA?style=flat-square&logo=kubernetes&logoColor=white)
 ![High Availability](https://img.shields.io/badge/High_Availability-2EA44F?style=flat-square&logo=statuspage&logoColor=white)
