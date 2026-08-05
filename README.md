@@ -43,9 +43,11 @@ strong operational foundations, and maintainable TypeScript systems.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Backend engineering**
+<hr>
 
-_Runtimes & frameworks_
+<h3>Backend Engineering</h3>
+
+<h4>Runtimes &amp; Frameworks</h4>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -55,7 +57,7 @@ _Runtimes & frameworks_
 ![Go Backend](https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python Backend](https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
 
-_Data access & validation_
+<h4>Data Access &amp; Validation</h4>
 
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
 ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -65,7 +67,7 @@ _Data access & validation_
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Serialization](https://img.shields.io/badge/Serialization-57606A?style=flat-square&logo=json&logoColor=white)
 
-_Integration & processing_
+<h4>Integration &amp; Processing</h4>
 
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
@@ -77,7 +79,7 @@ _Integration & processing_
 ![External Integrations](https://img.shields.io/badge/External_Integrations-5A29E4?style=flat-square&logo=icloud&logoColor=white)
 ![Adapter Patterns](https://img.shields.io/badge/Adapter_Patterns-8250DF?style=flat-square&logo=abstract&logoColor=white)
 
-_Service foundations_
+<h4>Service Foundations</h4>
 
 ![Authentication](https://img.shields.io/badge/Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Authorization](https://img.shields.io/badge/Authorization-3C79B4?style=flat-square&logo=auth0&logoColor=white)
@@ -86,6 +88,8 @@ _Service foundations_
 ![Pagination and Filtering](https://img.shields.io/badge/Pagination_%26_Filtering-0969DA?style=flat-square&logo=filter&logoColor=white)
 ![API Versioning](https://img.shields.io/badge/API_Versioning-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Graceful Shutdown](https://img.shields.io/badge/Graceful_Shutdown-2EA44F?style=flat-square&logo=statuspage&logoColor=white)
+
+<hr>
 
 **APIs & real-time systems**
 
@@ -115,6 +119,8 @@ _Service foundations_
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+<hr>
 
 <h3>Architecture &amp; System Design</h3>
 
@@ -162,6 +168,8 @@ _Service foundations_
 ![Concurrency Control](https://img.shields.io/badge/Concurrency_Control-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Consistency Models](https://img.shields.io/badge/Consistency_Models-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 ![Load Distribution](https://img.shields.io/badge/Load_Distribution-009639?style=flat-square&logo=nginx&logoColor=white)
+
+<hr>
 
 **Cloud, infrastructure & delivery**
 
