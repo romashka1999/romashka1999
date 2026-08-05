@@ -1,16 +1,14 @@
 # Roman Chikhladze
 
-**Senior Software Engineer · B2B SaaS · Distributed Systems**
+**Senior Software Engineer · Distributed Systems · Platform Engineering**
 
-I design and build production-grade SaaS platforms with an emphasis on clear service boundaries, reliable asynchronous workflows, tenant isolation, and maintainable TypeScript systems.
-
-Currently building **Iveri** — a multi-product B2B SaaS platform with shared identity, billing, messaging, realtime delivery, and integration infrastructure.
+I design and build production-grade software platforms with an emphasis on clear service boundaries, reliable asynchronous workflows, security, and maintainable TypeScript systems.
 
 ## Engineering focus
 
 - Backend platforms with **TypeScript, NestJS, PostgreSQL, Redis, and Kafka**
 - Resilient APIs, webhooks, background workers, outboxes, retries, and idempotency
-- Multi-tenant identity, permissions, billing, messaging, and realtime systems
+- Secure identity, messaging, realtime, and integration systems
 - Product interfaces with **React, Vite, and modern frontend architecture**
 - Delivery with **Docker, GitHub Actions, and AWS-ready infrastructure**
 
